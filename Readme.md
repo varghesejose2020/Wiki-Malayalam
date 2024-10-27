@@ -3,3 +3,5 @@
 2.വിക്കിഗ്രന്ഥശാല   [വിക്കിഗ്രന്ഥശാല ](https://ml.m.wikisource.org/)
 
 3.Wikimedia Commons-[Wikimedia Commons](https://commons.wikimedia.org/)
+
+4. wikiquote-[wikiquote](https://ml.wikiquote.org/)
